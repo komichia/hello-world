@@ -1,4 +1,4 @@
 # hello-world
 For tutorial
 
-I'm komichia.
+Hello, I am komichia.
